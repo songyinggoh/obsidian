@@ -1,0 +1,254 @@
+{
+  "main": {
+    "id": "c2358939c2ef1ea4",
+    "type": "split",
+    "children": [
+      {
+        "id": "3eab91e0199b6e7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94e61678c5207ac1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Google Cloud API Developer/API Design and Fundamentals of Google Cloud's Apigee API Platform/API-First and OpenAPI Specifications/API-First Development & OpenAPI Specifications.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "API-First Development & OpenAPI Specifications"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3d904dffc53d7676",
+    "type": "split",
+    "children": [
+      {
+        "id": "386b01414d428e96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "757ed477649e725a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3752e66522bf5fb8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2c2903bf7d438b46",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 353.5
+  },
+  "right": {
+    "id": "edf93eb9e169927a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3b770cb58b31471",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b37df86579842faf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Google Database Engineer Learning Path/Enterprise Database Migration/Migration Strategies/Optimize Databases for the Cloud.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Optimize Databases for the Cloud"
+            }
+          },
+          {
+            "id": "55f26ff276b04356",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Google Database Engineer Learning Path/Enterprise Database Migration/Networking for Secure Database Connectivity/Building Secure Networks.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Building Secure Networks"
+            }
+          },
+          {
+            "id": "6d98ef729faa08b2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "241b4a859ce16ca6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Google Database Engineer Learning Path/Enterprise Database Migration/Migrating Enterprise Databases to the Cloud/Traditional Database Architectures.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Traditional Database Architectures"
+            }
+          },
+          {
+            "id": "65e4e3227d8b277f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "ec7dd8034d3a9f98",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Google Database Engineer Learning Path/Migrate MySQL data to Cloud SQL using Database Migration Service/Migrating to Cloud SQL from Amazon RDS for MySQL Using Database Migration Service.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "yet-another-obsidian-synchronizer:YAOS": false,
+      "markdown-importer:Open format converter": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "publish:Publish changes...": false,
+      "workspaces:Manage workspace layouts": false,
+      "zk-prefixer:Create new unique note": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "94e61678c5207ac1",
+  "lastOpenFiles": [
+    "Untitled Kanban.md",
+    "Google Cloud API Developer/API Design and Fundamentals of Google Cloud's Apigee API Platform/API-First and OpenAPI Specifications/API-First Development & OpenAPI Specifications.md",
+    "Untitled.canvas",
+    "Excalidraw/Drawing 2025-10-27 01.39.17.excalidraw.md",
+    "Excalidraw",
+    "Google Cloud API Developer/API Design and Fundamentals of Google Cloud's Apigee API Platform/API-First and OpenAPI Specifications/REST API Design Basics, Responses,.md",
+    "Google Cloud API Developer/API Design and Fundamentals of Google Cloud's Apigee API Platform/Apigee Overview/Product Overview.md",
+    "Google Cloud API Developer/API Design and Fundamentals of Google Cloud's Apigee API Platform/Apigee Overview/Apigee organizations.md",
+    "Google Cloud API Developer/API Design and Fundamentals of Google Cloud's Apigee API Platform/Apigee Overview/API Lifecycle.md",
+    "Google Cloud API Developer/API Design and Fundamentals of Google Cloud's Apigee API Platform/API-First and OpenAPI Specifications",
+    "Screenshot 2025-10-25 162012.png",
+    "Screenshot 2025-10-25 004132.png",
+    "Screenshot 2025-10-25 003833.png",
+    "Screenshot 2025-10-25 003413.png",
+    "Google Database Engineer Learning Path/Enterprise Database Migration/business case for moving to Google Cloud/Writing a Business Case.md",
+    "Google Database Engineer Learning Path/Migrate MySQL data to Cloud SQL using Database Migration Service/Migrating to Cloud SQL from Amazon RDS for MySQL Using Database Migration Service.md",
+    "Google Database Engineer Learning Path/Migrate MySQL data to Cloud SQL using Database Migration Service/Cloud SQL for MySQL Qwik Start.md",
+    "Screenshot 2025-09-23 140638.png",
+    "Google Cloud API Developer/API Design and Fundamentals of Google Cloud's Apigee API Platform/Apigee Overview",
+    "Google Cloud API Developer/Deploy and Manage Apigee X",
+    "Google Cloud API Developer/Develop and Secure APIs with Apigee X",
+    "Google Cloud API Developer/API Development on Google Cloud's Apigee API Platform",
+    "Google Cloud API Developer/API Security on Google Cloud's Apigee API Platform",
+    "Google Cloud API Developer/Untitled.md",
+    "Google Cloud API Developer/API Design and Fundamentals of Google Cloud's Apigee API Platform",
+    "Welcome.md",
+    "Google Cloud API Developer",
+    "GeeksForGeeks Data Science Training Program",
+    "Excalidraw/Drawing 2025-10-09 11.58.19.excalidraw.md",
+    "202510091158.md",
+    "Google Database Engineer Learning Path/Enterprise Database Migration/EDM case study.md",
+    "Google Database Engineer Learning Path/Enterprise Database Migration/Google Implementation Methodology/Database Migration Activities.md",
+    "Screenshot 2025-10-07 222655.png",
+    "Screenshot 2025-10-07 222641.png",
+    "Google Database Engineer Learning Path/Enterprise Database Migration/Google Cloud Data Migration Services/3rd-Party Software for Database Migration.md",
+    "Google Database Engineer Learning Path/Enterprise Database Migration/Google Cloud Data Migration Services/Creating Workflows with Cloud Composer.md",
+    "Google Database Engineer Learning Path/Enterprise Database Migration/Migrating Oracle Databases to Google Cloud/Use cases.md",
+    "Google Database Engineer Learning Path/Enterprise Database Migration/Migrating Enterprise Databases to the Cloud/Traditional Database Architectures.md",
+    "Google Database Engineer Learning Path/Enterprise Database Migration/Google Cloud Data Migration Services/Programming Data Processing Pipelines with Data Fusion.md",
+    "Google Database Engineer Learning Path/Enterprise Database Migration/Google Cloud Data Migration Services/GC Data Migration Services%.md",
+    "Screenshot 2025-10-07 013312.png",
+    "Screenshot 2025-10-07 012522 1.png",
+    "Screenshot 2025-10-07 012522.png",
+    "Google Database Engineer Learning Path/Enterprise Database Migration/Google Cloud Data Migration Solutions/Bare Metal Solution.md",
+    "Google Database Engineer Learning Path/Enterprise Database Migration/Testing and Monitoring SQL Server Databases in Google Cloud/Google Cloud Monitoring.md",
+    "Google Database Engineer Learning Path/Enterprise Database Migration/Testing and Monitoring SQL Server Databases in Google Cloud/Testing.md",
+    "Google Database Engineer Learning Path/Enterprise Database Migration/Google Cloud Data Migration Solutions/Untitled.canvas"
+  ]
+}
