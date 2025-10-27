@@ -68,4 +68,3 @@ The core difference between traditional and API-first development is the startin
 
 By concentrating your design efforts on how your API will be consumed—focusing on the needs of app developers and the problems they need to solve—you give your API a **much better chance of being successful**.
 
-some
