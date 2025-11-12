@@ -57,12 +57,12 @@ In **gRPC**, methods are explicitly defined in a service interface within a `.pr
 
 The following table illustrates how a simple "delete book" operation is conceptualized in each style:
 
-|   |   |   |
-|---|---|---|
-|Feature|REST / OpenAPI|gRPC (with Resource-Oriented Design)|
-|**Method Definition**|Implicit via HTTP Verb and URL Path|Explicit in Service Definition|
-|**Example**|`DELETE /books/1234`|`rpc DeleteBook(DeleteBookRequest) returns (google.protobuf.Empty)`|
-|**Non-CRUD Actions**|Often modeled with `POST` and an action parameter (e.g., `POST /dogs/1234?action=walk`)|Defined as a `Custom Method` (e.g., `rpc BatchMutate(...)` or `rpc CancelOrder(...)`) within the service definition.|
+
+| Feature               | REST / OpenAPI                                                                          | gRPC (with Resource-Oriented Design)                                                                                 |
+| --------------------- | --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| **Method Definition** | Implicit via HTTP Verb and URL Path                                                     | Explicit in Service Definition                                                                                       |
+| **Example**           | `DELETE /books/1234`                                                                    | `rpc DeleteBook(DeleteBookRequest) returns (google.protobuf.Empty)`                                                  |
+| **Non-CRUD Actions**  | Often modeled with `POST` and an action parameter (e.g., `POST /dogs/1234?action=walk`) | Defined as a `Custom Method` (e.g., `rpc BatchMutate(...)` or `rpc CancelOrder(...)`) within the service definition. |
 
 ### 2.2 Data Serialization and Payload Format
 

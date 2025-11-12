@@ -6,11 +6,11 @@ As you step into the role of an API Product Manager, your success hinges on one 
 
 The table below outlines the core differences between these two ways of thinking. Understanding them is your first step toward building a successful API program.
 
-|   |   |
-|---|---|
-|Mindset|Core Characteristics|
-|**Project Mindset**|**Focus:** Delivery-oriented, centered on project deliverables and a fixed delivery date.<br>**Design Basis:** Based on an ordered list of steps to complete a task.<br>**Adaptability:** Seeks to lock down requirements early to avoid "scope creep" and meet a deadline.<br>**Timeline:** Has a defined completion date, after which the team moves on to the next project.|
-|**Product Mindset**|**Focus:** Outcome-oriented, centered on fulfilling business requirements and market needs.<br>**Design Basis:** Based on evolving business requirements, often without a predetermined implementation plan.<br>**Adaptability:** Designed to adapt to changing market needs over time, making changes as necessary.<br>**Timeline:** Does not have a completion date; it is a continuous cycle of improvement and evolution.|
+
+| Mindset             | Core Characteristics                                                                                                                                                                                                                                                                                                                                                                                                          |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Project Mindset** | **Focus:** Delivery-oriented, centered on project deliverables and a fixed delivery date.<br>**Design Basis:** Based on an ordered list of steps to complete a task.<br>**Adaptability:** Seeks to lock down requirements early to avoid "scope creep" and meet a deadline.<br>**Timeline:** Has a defined completion date, after which the team moves on to the next project.                                                |
+| **Product Mindset** | **Focus:** Outcome-oriented, centered on fulfilling business requirements and market needs.<br>**Design Basis:** Based on evolving business requirements, often without a predetermined implementation plan.<br>**Adaptability:** Designed to adapt to changing market needs over time, making changes as necessary.<br>**Timeline:** Does not have a completion date; it is a continuous cycle of improvement and evolution. |
 
 Our strong recommendation is to adopt a product mindset for your APIs and API products. Experience shows that this approach leads to better API adoption, higher developer satisfaction, and a more successful overall API program. By focusing on the outcome rather than just the delivery, you create assets that provide sustained value. To do that effectively, we must first clearly define what an API product truly is.
 
@@ -140,11 +140,10 @@ The external product is a success, but key partners now require more detailed in
 
 The existing "External Product" is rebranded as the **Silver Product**, and a new **Gold Product** is created for key partners. This new premium tier includes access to a `GET stock-date` operation from the Restocking API.
 
-|   |   |   |
-|---|---|---|
-|Product Tier|Included API Operations|Target Audience|
-|**Silver Product**|`Inventory API (GET in-stock)`|General External Developers|
-|**Gold Product**|`Inventory API (GET in-stock)` <br> `Restocking API (GET stock-date)`|Key Partners|
+| Product Tier       | Included API Operations                                               | Target Audience             |
+| ------------------ | --------------------------------------------------------------------- | --------------------------- |
+| **Silver Product** | `Inventory API (GET in-stock)`                                        | General External Developers |
+| **Gold Product**   | `Inventory API (GET in-stock)` <br> `Restocking API (GET stock-date)` | Key Partners                |
 
 This walkthrough powerfully demonstrates the core of API product strategy. This entire evolution—from a single internal tool to a tiered, monetizable external offering—is the "product mindset" in action. The API product was not a static project with an end date; it was a living asset that adapted continuously to new business requirements. From the same two backend APIs, we have created four distinct, targeted products that serve different audiences and business objectives. This was achieved with the agility and strategic control provided by an API management platform like Apigee, which forms the bridge between backend services and market-facing products.
 

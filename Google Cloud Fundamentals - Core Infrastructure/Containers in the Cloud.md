@@ -39,12 +39,12 @@ Google Kubernetes Engine (GKE) is a "Google-hosted managed Kubernetes service in
 
 The primary differentiator between GKE and a self-managed Kubernetes installation is that **GKE manages all the control plane components for the user**. While it exposes the same standard Kubernetes API endpoint for interaction, GKE is responsible for provisioning and managing all the control plane infrastructure behind it. This abstraction simplifies cluster management immensely, freeing users from the need to build, operate, and upgrade their own Kubernetes control plane. GKE offers two distinct operational modes to meet different user needs.
 
-|   |   |   |
-|---|---|---|
-|Feature|GKE Autopilot Mode|GKE Standard Mode|
-|**Management Model**|GKE manages the underlying infrastructure such as node configuration, autoscaling, auto-upgrades, baseline security configurations, and baseline networking configuration.|The user manages the underlying infrastructure and is responsible for configuring the individual nodes.|
-|**Recommendation**|Recommended for most use cases.|For users who require a specific level of configuration control over their cluster's infrastructure.|
-|**Key Benefits**|Optimized for production, provides a strong security posture, and promotes operational efficiency by reducing management overhead.|Offers the same core Kubernetes functionality as Autopilot but with full user control over cluster configuration, management, and optimization.|
+
+| Feature              | GKE Autopilot Mode                                                                                                                                                         | GKE Standard Mode                                                                                                                               |
+| -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Management Model** | GKE manages the underlying infrastructure such as node configuration, autoscaling, auto-upgrades, baseline security configurations, and baseline networking configuration. | The user manages the underlying infrastructure and is responsible for configuring the individual nodes.                                         |
+| **Recommendation**   | Recommended for most use cases.                                                                                                                                            | For users who require a specific level of configuration control over their cluster's infrastructure.                                            |
+| **Key Benefits**     | Optimized for production, provides a strong security posture, and promotes operational efficiency by reducing management overhead.                                         | Offers the same core Kubernetes functionality as Autopilot but with full user control over cluster configuration, management, and optimization. |
 
 By offering these distinct modes, GKE provides a flexible platform that caters to teams prioritizing operational simplicity as well as those requiring granular control. Beyond these high-level management models, GKE's true operational advantage lies in a suite of advanced, integrated features.
 
